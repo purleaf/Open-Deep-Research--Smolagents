@@ -1,5 +1,7 @@
 # Open-Deep-Research--Smolagents 🚀🔍
 
+<p align="center"><img src="./images/web-browsing.gif" alt="Profile Banner"/></p>
+
 A brief description of your project and what it does. This project leverages multiple AI models and tools to answer questions by running an agent that queries external sources.
 
 ## Overview 📖
